@@ -18,7 +18,7 @@ Currently learning and building 2D games with **Godot**.
 
   Sir Coinsalot is a 2D runner game about one very determined knight trying to reach the top of the mountain.
 
-  [Play on itch.io](YOUR_ITCH_IO_LINK) | [Source code](YOUR_REPO_LINK)
+  [Play on itch.io](YOUR_ITCH_IO_LINK) | [Repository](https://github.com/batukkeringg/Sir-Coinsalot.git)
 
   
   <img width="765" height="442" alt="MainMenu_COVER" src="https://github.com/user-attachments/assets/d423844b-9b9d-46fe-a50a-271d69ffbd73" />
