@@ -10,9 +10,11 @@ random concepts into something playable.
 
 Currently learning and building 2D games with **Godot**.
 
-### Projects
+---
 
-- **Sir Coinsalot**
+## Projects
+
+* ### Sir Coinsalot
 
   Sir Coinsalot is a 2D runner game about one very determined knight trying to reach the top of the mountain.
 
@@ -22,7 +24,9 @@ Currently learning and building 2D games with **Godot**.
   <img width="765" height="442" alt="MainMenu_COVER" src="https://github.com/user-attachments/assets/d423844b-9b9d-46fe-a50a-271d69ffbd73" />
 
 
-More games and experiments coming soon — check back for updates!
+More games and experiments coming soon. Check back for updates!
+
+---
 
 ## Tools & Technologies
 
