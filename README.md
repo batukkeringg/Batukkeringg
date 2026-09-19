@@ -21,7 +21,8 @@ Currently learning and building 2D games with **Godot**.
   [Play on itch.io](YOUR_ITCH_IO_LINK) | [Repository](https://github.com/batukkeringg/Sir-Coinsalot.git)
 
   
-  <img width="765" height="442" alt="MainMenu_COVER" src="https://github.com/user-attachments/assets/d423844b-9b9d-46fe-a50a-271d69ffbd73" />
+  <img width="408" height="240" alt="SirCoinsalotGIF" src="https://github.com/user-attachments/assets/5a7bd90a-b72e-4803-96c0-a63749947dff" />
+
 
 
 More games and experiments coming soon. Check back for updates!
