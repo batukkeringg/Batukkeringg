@@ -19,15 +19,6 @@ Currently learning and building 2D games with **Godot**.
   Abyssal Harpoon is a 2D pixel-art spearfishing game. Dive deep, hunt fish, dodge deadly sea predators, and upgrade your gear to survive the abyss.
 
 
-
-* ### [Sir Coinsalot](https://github.com/batukkeringg/Sir-Coinsalot.git)
-
-  Sir Coinsalot is a 2D runner game about one very determined knight trying to reach the top of the mountain.
-
-  [Play on your computer](https://drive.google.com/file/d/1lo5zGLF8dSMggd-UDTZjZDJzvFoCxzaq/view?usp=sharing) 
-
-  <img width="408" height="240" alt="SirCoinsalotGIF" src="https://github.com/user-attachments/assets/5a7bd90a-b72e-4803-96c0-a63749947dff" />
-
 More games and experiments coming soon. Check back for updates!
 
 ---
